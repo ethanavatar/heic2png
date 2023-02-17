@@ -1,0 +1,6 @@
+cffi==1.15.1
+colorama==0.4.6
+Pillow==9.4.0
+pillow-heif==0.9.3
+pycparser==2.21
+tqdm==4.64.1
