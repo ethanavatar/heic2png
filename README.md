@@ -4,7 +4,7 @@ A CLI tool to convert batches of images from HEIC to PNG.
 
 ## Installation
 
-This tool is not published on PyPi yet, so you will have to install it from source until then.
+This tool is not published on PyPi, so you will have to install it from source until then.
 ```bash
 $ pip install git+https://github.com/ethanavatar/heic2png.git
 ```
